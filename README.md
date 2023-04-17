@@ -1,10 +1,15 @@
 # Tugas Lab5_php_oop
 
 * halaman Home
+
   <img src="gambar/home.png">
+  
 * halaman input 
+
   <img src="gambar/input.png">
+  
 * isi Database
+
   <img src="gambar/database.png">
 
 * Membuat class library dengan membuat file baru dengan nama form.php.
